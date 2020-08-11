@@ -2,7 +2,6 @@
 Convert a given name and status to ASCII Signature, made at Hyperskill
 
 # Output examples
-
 ```example1
 Enter name and surname: Ian One
 Enter person's status: VIP
