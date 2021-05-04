@@ -1,5 +1,5 @@
 # Hyperskill-ASCII-Text-Signature-Kotlin
-Convert a given name and status to ASCII Signature, made at Hyperskill
+Convert a given name and status to ASCII Signature
 
 # Output examples
 ```example1
